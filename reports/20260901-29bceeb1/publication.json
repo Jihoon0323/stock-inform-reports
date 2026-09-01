@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "publication_id": "10076be7-ed8b-52d3-b771-6e9c12e81ded",
+  "generated_at": "2026-09-01T21:25:06.617769+09:00",
+  "research_id": "29bceeb1-e777-5be0-91ee-cc6abf0af9a0",
+  "research_content_hash": "915fbc0e33cd9ba926f7a31a4a77643fed6785755f3d402804b26f9a6bcfcb57",
+  "evidence_set_id": "495ab50e-5aa0-489e-9d09-3ceda9133bbc",
+  "html_sha256": "aca7ccf15f1faa1915263c4ecc67c5caa38ac9edf65b04e6f71088bc2431c1e2",
+  "html_path": "reports/20260901-29bceeb1/index.html",
+  "public_url": null,
+  "status": "PUBLISHED_STATIC_ARTIFACT",
+  "renderer_version": 1
+}
