@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "publication_id": "d702be96-10f3-5717-ae14-0794f75581d8",
+  "generated_at": "2026-09-03T22:55:27.019109+09:00",
+  "research_id": "fe24b535-3220-53ef-98a3-aa287d333cb5",
+  "research_content_hash": "9a82d8b3c0fa6fdc3ca67fc409db774dc0af0bb2c4d2049624e075b80facc3d0",
+  "evidence_set_id": "fa40e0c5-2576-4c0a-8019-87c33581a55a",
+  "html_sha256": "dbd0dc75c0747a64708202a3d50bc72a8fc19e23ce6826f011123d680666ee23",
+  "html_path": "reports/20260903-fe24b535/index.html",
+  "public_url": "https://jihoon0323.github.io/stock-inform-reports/reports/20260903-fe24b535/",
+  "status": "PUBLISHED_STATIC_ARTIFACT",
+  "renderer_version": 1
+}
